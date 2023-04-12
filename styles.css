@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+/*................class selector...........*/
+.strawberry{
+    background-color: pink;
+    
+}
+.mango
+{
+    background-color: yellow;
+}
+/*..................img colour..............*/
+img:hover
+{
+    background-color: blueviolet;
+}
+.circular{
+    border-radius: 100%;
+}
+h1{
+    font-size:  50px;
+}
+/*...................I selector.............*/
+#heading{
+    color:palevioletred
+}
